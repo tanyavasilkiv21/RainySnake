@@ -62,7 +62,7 @@ int main(){
 		bool boolGameOver = false;
 		while (!boolGameOver) {
 			clock_t CurrentFrameTime = clock();
-			if (CurrentFrameTime - LastFrameTime < 100) {
+			if (CurrentFrameTime - LastFrameTime < 100) { //frame time limit
 				continue;
 			}
 			else {
