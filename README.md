@@ -5,7 +5,8 @@ It's a terminal game about a snake in the rain.
 You may compile this in VS 2017 than you can play in game!
 
 ### *Game Process*
-When you launch it, you are greeted with a menu.
+When you launch it, you are greeted with a menu.    
+
 *Example menu*:   
 
 ![](Media/start-menu.png)
